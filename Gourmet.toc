@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Gourmet
+## Version: 1.00
+## Author: jsb
+## Notes: Provides the /gourmet eat and /gourmet drink macros to automatically consume the most appropriate foods and drinks from your inventory.
+Gourmet.lua
+Gourmet_Sorting.lua
